@@ -1,15 +1,13 @@
-# Eco-Friendly E-Commerce Platform
+# Eco Fashion Retailer
 
 A static web-based eco-fashion and sustainable shopping project with category pages, cart flow, authentication pages, and checkout/order flow.
 
-## Updated Project Structure
-
-The project is now organized by file type:
+## Project Structure
 
 ```text
 Eco Fashion Retailer-project/
-├── index.html                 # Entry file (redirects to html/index.html)
-├── html/                      # All page files
+├── index.html                
+├── html/                      
 │   ├── index.html
 │   ├── beauty.html
 │   ├── clothing.html
@@ -23,16 +21,16 @@ Eco Fashion Retailer-project/
 │   ├── payment.html
 │   ├── order-confirmation.html
 │   └── invoice-preview.html
-├── css/                       # Stylesheets
+├── css/                       
 │   ├── styles1.css
 │   ├── cartpage.css
 │   ├── fashionacc.css
 │   └── login_page.css
-├── js/                        # JavaScript files
+├── js/                         
 │   ├── main1.js
 │   ├── cartpage.js
 │   └── search.js
-└── images/                    # Image assets
+└── images/                     
 ```
 
 ## Features
